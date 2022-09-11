@@ -3,8 +3,8 @@
 
 |Sr No.|Status|Question|
 |:----:|:----:|:---------|
-|1.|&#9744;|Simple Java Program|
-|2.|&#9744;|Print Integer in Java|
+|1.|&#9745;|Simple Java Program [**Simple.java**]|
+|2.|&#9745;|Print Integer in Java [**PrintInteger.java**]|
 |3.|&#9744;|Command Line Argument|
 |4.|&#9744;|How to get User Input using Scanner|
 |5.|&#9744;|How to convert Farenheit to Celcius|
