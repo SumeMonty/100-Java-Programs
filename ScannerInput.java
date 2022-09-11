@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.io.*;
 
 class ScannerInput {
   public static void main(String[] args) {
@@ -15,5 +14,6 @@ class ScannerInput {
     System.out.print("\n\nEnter Any Number: ");
     num = sc.nextInt();
     System.out.print("The entered number is " + num);
+    sc.close();
   }
 }
