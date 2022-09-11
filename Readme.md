@@ -10,7 +10,7 @@
 |5.|&#9744;|How to convert Farenheit to Celcius [**FahrenheitToCelsius.java**]|
 |6.|&#9744;|How to swap 2 numbers using 3rd variable [**SwapUsing3rdVar.java]|
 |7.|&#9744;|How to swap 2 numbers without using 3rd variable  [**SwapWithout3rdVar.java**]|
-|8.|&#9744;|How to add 2 numbers|
+|8.|&#9744;|How to add 2 numbers [**Add2Numbers.java**]|
 |9.|&#9744;|Find Largest Number in Java|
 |10.|&#9744;|If-else clause in Java|
 |11.|&#9744;|If-else cluse in Java - Program 2|
