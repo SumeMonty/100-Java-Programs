@@ -5,7 +5,7 @@
 |:----:|:----:|:---------|
 |1.|&#9745;|Simple Java Program [**Simple.java**]|
 |2.|&#9745;|Print Integer in Java [**PrintInteger.java**]|
-|3.|&#9744;|Command Line Argument|
+|3.|&#9744;|Command Line Argument [**CommandLineArg.java**]|
 |4.|&#9744;|How to get User Input using Scanner|
 |5.|&#9744;|How to convert Farenheit to Celcius|
 |6.|&#9744;|How to swap 2 numbers using 3rd variable|
