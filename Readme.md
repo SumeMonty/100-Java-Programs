@@ -7,7 +7,7 @@
 |2.|&#9745;|Print Integer in Java [**PrintInteger.java**]|
 |3.|&#9745;|Command Line Argument [**CommandLineArg.java**]|
 |4.|&#9744;|How to get User Input using Scanner [**ScannerInput.java**]|
-|5.|&#9744;|How to convert Farenheit to Celcius|
+|5.|&#9744;|How to convert Farenheit to Celcius [**FahrenheitToCelsius.java**]|
 |6.|&#9744;|How to swap 2 numbers using 3rd variable|
 |7.|&#9744;|How to swap 2 numbers without using 3rd variable|
 |8.|&#9744;|How to add 2 numbers|
