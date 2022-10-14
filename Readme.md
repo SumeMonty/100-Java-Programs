@@ -13,7 +13,7 @@
 |8.|&#9745;|How to add 2 numbers [**Add2Numbers.java**]|
 |9.|&#9745;|Find Largest Number in Java|
 |10.|&#9745;|If-else clause in Java|
-|11.|&#9744;|If-else cluse in Java - Program 2|
+|11.|&#9745;|If-else cluse in Java - Program 2|
 |12.|&#9744;|Nested If-else Clause in Java|
 |13.|&#9744;|How to check Odd and Even Numbers in Java|
 |14.|&#9744;|Find Factorial of given Number|
