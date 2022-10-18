@@ -11,10 +11,10 @@
 |6.|&#9745;|How to swap 2 numbers using 3rd variable [**SwapUsing3rdVar.java]|
 |7.|&#9745;|How to swap 2 numbers without using 3rd variable  [**SwapWithout3rdVar.java**]|
 |8.|&#9745;|How to add 2 numbers [**Add2Numbers.java**]|
-|9.|&#9745;|Find Largest Number in Java|
-|10.|&#9745;|If-else clause in Java|
-|11.|&#9745;|If-else cluse in Java - Program 2|
-|12.|&#9744;|Nested If-else Clause in Java|
+|9.|&#9745;|Find Largest Number in Java [**LargestNumber.java**]|
+|10.|&#9745;|If-else clause in Java [**IfElse1.java**]|
+|11.|&#9745;|If-else cluse in Java - Program 2 [**IfElse2.java**]|
+|12.|&#9745;|Nested If-else Clause in Java [**NestedIfElse.java**]|
 |13.|&#9744;|How to check Odd and Even Numbers in Java|
 |14.|&#9744;|Find Factorial of given Number|
 |15.|&#9744;|How to complete 2 Strings in Java|
